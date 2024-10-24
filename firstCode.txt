@@ -8,5 +8,9 @@ those commands are:
 3. git commit -m "message"
 4. git status
 5. git push
-
+6. git pull
+7. git tag // to create a tag
+8. git branch // to create a branch
+9. git checkout // to switch between branches
+10. git show tag 
 
