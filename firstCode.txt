@@ -1,5 +1,12 @@
 Hello world!!!
 
-firrst my code 'touch firstCode.txt' is working fine and creating the file firstCode.txt
-but when I try to write something in the file using echo command it is not working.
-I am using the command 'echo "Hello world!!!" > firstCode.txt' to write in the file.
+iam learning git and github
+i need to learn all git commands
+those commands are:
+1. git init
+2. git add
+3. git commit -m "message"
+4. git status
+5. git push
+
+
