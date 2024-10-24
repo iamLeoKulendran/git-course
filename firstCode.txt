@@ -1,3 +1,4 @@
 Hello world!!!
 
 firrst my code 'touch firstCode.txt' is working fine and creating the file firstCode.txt
+but when I try to write something in the file using echo command it is not working.
