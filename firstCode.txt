@@ -13,4 +13,6 @@ those commands are:
 8. git branch // to create a branch
 9. git checkout // to switch between branches
 10. git show tag 
+11. //push tag to remote  git push origin tagname
+12. //delete tag git tag -d tagname
 
