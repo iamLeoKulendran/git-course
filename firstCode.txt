@@ -18,3 +18,7 @@ those commands are:
 12. //delete tag git tag -d tagname
 13. //delete tag from remote git push origin :refs/tags/tagname
 14. //merge branch git merge branchname
+
+15. //delete branch git branch -d branchname
+
+
